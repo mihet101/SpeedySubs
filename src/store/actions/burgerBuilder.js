@@ -1,4 +1,4 @@
-/*Function Name= init ingredients
+/*Function Name=
 Description= initializes the ingredients for the sub
 Coder Name= Sourav
 Start Date= Nov 21st, 2020
