@@ -2,6 +2,15 @@ import React from 'react';
 import classes from './Burger.css';
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient'
 
+/*Function Name= burger
+Description= shows the sub gui
+Coder Name= Tim
+Start Date= Sept 30th, 2020
+End Date= Sept 30th, 2020
+Code Approved= Sept 30th
+Input= props(ingredients) 
+Output= sub ui
+*/
 
 const burger = (props) => {
     let transformedIngredients = Object.keys(props.ingredients).map(igKey=>{
