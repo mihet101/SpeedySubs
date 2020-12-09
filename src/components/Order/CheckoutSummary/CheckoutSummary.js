@@ -1,3 +1,15 @@
+/*Function Name= checkoutSummary
+Description= the checkout summary with buttons continue and cancel
+Coder Name= Sourav
+Start Date= Nov 14th, 2020
+End Date= Nov 15th, 2020
+Code Approved= Sumeet
+Arguments= Burger class, button class, and classes from checkoutSummary.css
+Input= buttons and label
+Output= checkout summary 
+
+*/
+
 import React from 'react';
 import Burger from '../../Burger/Burger';
 import Button from '../../UI/Button/Button';
