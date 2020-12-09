@@ -5,6 +5,15 @@ import { connect } from 'react-redux';
 import CheckoutSummary from '../../components/Order/CheckoutSummary/CheckoutSummary';
 import ContactData from './ContactData/ContactData';
 
+/*Function Name= Checkout
+Description= Helps checkout the built sub
+Coder Name= Saurav
+Approved= Kush
+Start Date= Oct 6th, 2020
+End Date= Oct 6th, 2020
+Code Approved= Oct 6th
+*/
+
 class Checkout extends Component {
 
     checkoutCancelledHandler = () => {
