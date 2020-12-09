@@ -1,3 +1,13 @@
+/*
+Description= helps update the order for the sub, whether its a success or fail
+Coder Name= Tim
+Start Date= Nov 24rd, 2020
+End Date= Nov 24rd, 2020
+Code Approved= Kush
+Variables= purchaseBurgerSuccess, purchaseBurgerFail, purchaseBurgerStart, purchaseBurger,
+purchaseInit, fetchOrdersSuccess, fetchOrdersStart, fetchOrders, fetchOrdersFail, reducer
+*/
+
 import * as actionTypes from '../actions/actionTypes';
 import { updateObject } from '../../shared/utility';
 
