@@ -1,3 +1,11 @@
+/*Function Name=
+Description= helps create sandwich when ingredients are added or removed
+Coder Name= Sourav
+Start Date= Nov 22st, 2020
+End Date= Nov 22st, 2020
+Code Approved= Tim
+*/
+
 import * as actionTypes from '../actions/actionTypes';
 import { updateObject } from '../../shared/utility';
 
