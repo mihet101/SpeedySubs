@@ -9,6 +9,16 @@ import classes from './Auth.css';
 import * as actions from '../../store/actions/index';
 import { updateObject, checkValidity } from '../../shared/utility';
 
+/*Function Name= Auth
+Description= Signup/Login
+Coder Name= Kush
+Approved= Saurav
+Start Date= Oct 4th, 2020
+End Date=Oct 4th, 2020
+Code Approved= Oct 4th
+Arguments= Auth.css
+*/
+
 class Auth extends Component {
     state = {
         controls: {
