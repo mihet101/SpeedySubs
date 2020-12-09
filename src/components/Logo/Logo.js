@@ -8,4 +8,19 @@ const logo = (props)=> (
     </div>
 );
 
+/*Function Name= Logo
+Description= Logo of the application
+Coder Name= Sourav
+Start Date= Sept 28th, 2020
+End Date= Sept 28th, 2020
+Code Approved= Sept 28th
+Arguments= logo.css
+Variables= "logo"
+File Accessed= logo imported from a png
+Error Handling=
+Input= picture 
+Output= logo placed in the application 
+
+*/
+
 export default logo;
