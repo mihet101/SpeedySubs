@@ -1,3 +1,11 @@
+/*Function Name= 
+Description= helps authentication for real users
+Coder Name= Tim 
+Start Date= Nov 22th, 2020
+End Date= Nov 22th, 2020
+Code Approved= Sourav
+*/
+
 import * as actionTypes from '../actions/actionTypes';
 import { updateObject } from '../../shared/utility';
 
