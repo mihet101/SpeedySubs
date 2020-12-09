@@ -1,10 +1,11 @@
 import React from 'react';
 import classes from './Button.css'
 /*Name= Button
+*Description= Button is being disabled
 *Coder= Tim
 *Approved= Sourav
-*Start= 2nd
-*End= oct 2nd
+*Start= Oct 11th
+*End= Oct 11th
 *Variable= button
 */
 const button = (props) => (
