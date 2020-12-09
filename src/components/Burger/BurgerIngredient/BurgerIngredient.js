@@ -46,3 +46,15 @@ BurgerIngredient.propTypes ={
 };
 
 export default BurgerIngredient;
+
+/*Function Name= BurgerIngredient
+Description= burger class that extends component. The ingredients for the burger
+Coder Name= Sourav
+Start Date= Sept 29th, 2020
+End Date= Sept 29th, 2020
+Code Approved= Sept 30th, 2020
+Variables= "ingredient"
+Input= the class instances of each ingredient
+Output= the ingredients being added to the application
+
+*/
