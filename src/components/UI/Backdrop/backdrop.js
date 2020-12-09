@@ -4,8 +4,8 @@ import classes from './backdrop.css'
 *Description= Removes the pop up when the user clicks outside of the box   
 *Coder= Sumeet
 *Approved= Kush
-*Start= Sept 30 2020
-*End= Sept 30 2020
+*Start= Oct 17 2020
+*End= Oct 17 2020
 *Variable= backdrop
 */
 const backdrop = (props) => (
