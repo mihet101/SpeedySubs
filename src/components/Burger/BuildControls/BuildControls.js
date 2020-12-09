@@ -2,6 +2,14 @@ import React from 'react';
 import classes from './BuildControls.css'
 import BuildControl from './BuildControl/BuildControl'
 
+/*Name= BuildControls
+* Description: Creating Buttons for adding and removing ingredients 
+*Coder= Sumeet
+*Approved= Kush
+*Start= Sept 30
+*End= Sept 30
+*Variable= buildControl, controls
+*/
 const controls = [
     {label: 'Salad', type: 'salad'},
     {label: 'Bacon', type: 'bacon'},
