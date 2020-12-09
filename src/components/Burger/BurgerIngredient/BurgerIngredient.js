@@ -51,7 +51,7 @@ export default BurgerIngredient;
 /*Function Name= BurgerIngredient
 Description= burger class that extends component. The ingredients for the burger
 Coder Name= Sourav
-Start Date= Oct 1st, 2020
+Start Date= Sept 29, 2020
 End Date= Oct 2nd, 2020
 Code Approved= Tim
 Variables= "ingredient"
