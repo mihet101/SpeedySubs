@@ -1,3 +1,12 @@
+/*Function Name= init ingredients
+Description= initializes the ingredients for the sub
+Coder Name= Sourav
+Start Date= Nov 21st, 2020
+End Date= Nov 21st, 2020
+Code Approved= Tim
+
+*/
+
 import * as actionTypes from './actionTypes';
 import axios from '../../axios-orders';
 
