@@ -1,3 +1,13 @@
+/*
+Description= initializes the order for the sub, whether its a success or fail
+Coder Name= Tim
+Start Date= Nov 23rd, 2020
+End Date= Nov 23rd, 2020
+Code Approved= Kush
+Variables= purchaseBurgerSuccess, purchaseBurgerFail, purchaseBurgerStart, purchaseBurger,
+purchaseInit, fetchOrdersSuccess, fetchOrdersStart, fetchOrders
+*/
+
 import * as actionTypes from './actionTypes';
 import axios from '../../axios-orders';
 
