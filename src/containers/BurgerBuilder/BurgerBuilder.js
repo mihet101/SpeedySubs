@@ -11,6 +11,15 @@ import withErrorHandler from '../../hoc/withErrorHandler/withErrorHandler';
 import * as actions from '../../store/actions/index';
 import axios from '../../axios-orders';
 
+/*Function Name= BurgerBuilder
+Description= Helps to build the sub
+Coder Name= Sourav
+Approved= Sumeet
+Start Date= Oct 5th, 2020
+End Date= Oct 5th, 2020
+Code Approved= Oct 5th
+*/
+
 class BurgerBuilder extends Component {
     // constructor(props) {
     //     super(props);
