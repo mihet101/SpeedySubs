@@ -2,6 +2,16 @@ import React from 'react';
 import Aux from '../../../hoc/Auxilliary/Auxilliary'
 import Button from '../../UI/Button/Button'
 
+/*Function Name= OrderSummary
+Description= Shows pop-up of order details
+Coder Name= Kush
+Start Date= Sept 30th, 2020
+End Date= Sept 30th, 2020
+Code Approved= Sept 30th
+Input= props(ingredients,price) 
+Output= logo placed in the application 
+*/
+
 const orderSummary = (props) => {
     const ingredientSummary = Object.keys(props.ingredients).map(igKey => {
         return <li key={igKey}><span style={{textTransform: 'capitalize'}}>{igKey}</span>: {props.ingredients[igKey]}</li>
