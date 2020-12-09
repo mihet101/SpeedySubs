@@ -1,6 +1,13 @@
 import React from 'react';
 import classes from './Input.css';
-
+/*Name= Input
+* Description: Text Box input
+*Coder= Sumeet
+*Approved= Kush
+*Start= Oct 11
+*End= Oct 17th
+*Variable= input, inputElement, inputClasses
+*/
 const input = (props) => {
     let inputElement = null;
     const inputClasses = [classes.InputElement];
