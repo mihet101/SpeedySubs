@@ -10,6 +10,15 @@ import withErrorHandler from '../../../hoc/withErrorHandler/withErrorHandler'
 import * as actions from '../../../store/actions/index';
 import { updateObject, checkValidity } from '../../../shared/utility';
 
+/*Function Name= ContactData
+Description= Helps take the contact details of the user
+Coder Name= Tim
+Approved= Saurav
+Start Date= Oct 7th, 2020
+End Date= Oct 7th, 2020
+Code Approved= Oct 7th
+*/
+
 class ContactData extends Component {
     state = {
         orderForm: {
