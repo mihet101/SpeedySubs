@@ -1,3 +1,12 @@
+/*Function Name= 
+Description= authenticates whether the info is real
+Coder Name= Tim 
+Start Date= Nov 20th, 2020
+End Date= Nov 20th, 2020
+Code Approved= Sourav
+
+*/
+
 import axios from 'axios';
 
 import * as actionTypes from './actionTypes';
