@@ -1,3 +1,14 @@
+/*Function Name= order
+Description= the ingredients get put into a list, and the order button and the price is displayed
+Coder Name= Tim
+Start Date= Nov 12th, 2020
+End Date=  Nov 13th, 2020
+Code Approved= Sourav
+Variables= ingredients, order
+Input= Order.css, list
+
+*/
+
 import React from 'react';
 import classes from './Order.css';
 
