@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 import classes from './BurgerIngredient.css';
 
+
 class BurgerIngredient extends Component{
     render() {
         let ingredient =null;
@@ -50,9 +51,9 @@ export default BurgerIngredient;
 /*Function Name= BurgerIngredient
 Description= burger class that extends component. The ingredients for the burger
 Coder Name= Sourav
-Start Date= Sept 29th, 2020
-End Date= Sept 29th, 2020
-Code Approved= Sept 30th, 2020
+Start Date= Oct 1st, 2020
+End Date= Oct 2nd, 2020
+Code Approved= Tim
 Variables= "ingredient"
 Input= the class instances of each ingredient
 Output= the ingredients being added to the application
