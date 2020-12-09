@@ -7,6 +7,16 @@ import withErrorHandler from '../../hoc/withErrorHandler/withErrorHandler';
 import * as actions from '../../store/actions/index';
 import Spinner from '../../components/UI/Spinner/Spinner';
 
+/*Function Name= Orders
+Description= Prints out the users orders
+Coder Name= Kush
+Approved= Sumeet
+Start Date= Oct 8th, 2020
+End Date= Oct 8th, 2020
+Code Approved= Oct 8th
+Output= User orders
+*/
+
 class Orders extends Component {
     componentDidMount () {
         this.props.onFetchOrders(this.props.token, this.props.userId);
