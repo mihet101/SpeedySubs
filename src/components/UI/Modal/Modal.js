@@ -9,7 +9,6 @@ import Backdrop from '../Backdrop/backdrop'
 *Approved= Sumeet
 *Start= Oct 10
 *End= Oct 10
-*Variable= 
 */
 class Modal extends Component {
     shouldComponentUpdate(nextProps , nextState){
